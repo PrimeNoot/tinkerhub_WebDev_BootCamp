@@ -1,0 +1,60 @@
+
+#steve
+{  
+    color: greenyellow;
+    background-color: black;
+    border-radius: 10px;
+}
+img
+{
+    width: 500px;
+    border-radius: 50px;
+    border-color: black;
+    border-width: thick;
+    
+}
+.rainbow-text 
+{
+background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+text-align: center;
+}
+.Parent
+{
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        background-color: rgb(0, 0, 0);
+        height: 150px;
+        justify-content: center;
+        align-items:center;
+        border-radius: 10px;
+
+}
+.child
+{
+   margin: 10px;
+   height: 40px;
+   width: 47px;
+   border-radius: 10px;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: rgb(255, 253, 253);
+}
+.child1
+{
+    background-color: rgb(255, 20, 20);
+}
+.child2
+{
+    background-color: rgb(24, 20, 255);
+}
+.child3
+{
+    background-color:blueviolet;
+}
+body
+{
+    background-color: navy;
+}
