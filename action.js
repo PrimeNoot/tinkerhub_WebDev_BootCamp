@@ -1,6 +1,6 @@
-function changetoRed()
+function changetoOrange()
 {
-    document.body.style.backgroundColor = "red";
+    document.body.style.backgroundColor = "orange";
 }
 function changeToGreen()
 {

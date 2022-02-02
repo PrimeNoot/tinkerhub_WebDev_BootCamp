@@ -2,9 +2,10 @@
 #steve
 {  
     color: greenyellow;
-    background-color: black;
+    background-color: rgb(90, 85, 85);
     border-radius: 10px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 img
 {
@@ -12,6 +13,10 @@ img
     border-radius: 50px;
     border-color: black;
     border-width: thick;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 .rainbow-text 
@@ -33,9 +38,9 @@ img
 }
 .child
 {
-   margin: 10px;
-   height: 40px;
-   width: 47px;
+   margin: 15px;
+   height: 50px;
+   width: 55px;
    border-radius: 10px;
    text-align: center;
    display: flex;
@@ -45,7 +50,7 @@ img
 }
 .child1
 {
-    background-color: rgb(255, 20, 20);
+    background-color: rgb(255, 153, 20);
 }
 .child2
 {
